@@ -6,7 +6,7 @@ This project is a responsive **Admin Dashboard** built using **React** and **Tai
 
 ## 🚀 Live Demo  
 
-🔗 [Live Demo]([https://your-deployed-url.com](https://admin-dashboard-ten-psi-87.vercel.app/)) *(if hosted)*  
+🔗 [Live Demo](https://admin-dashboard-ten-psi-87.vercel.app/) *(if hosted)*  
 
 ---
 
@@ -35,13 +35,19 @@ This project is a responsive **Admin Dashboard** built using **React** and **Tai
 
 ### 1️⃣ Clone the Repository  
 
-```sh
+```
 git clone https://github.com/your-username/admin-dashboard.git
-cd admin-dashboard 
-
+cd admin-dashboard
+```
 ### 2️⃣ Install Dependencies
+```
 npm install
-
+```
 ### 3️⃣ Run the Application
+```
 npm run dev
-
+```
+###✨ Additional Features
+✅ Sorting & searching for Users and Products
+✅ User authentication simulation
+✅ Optimized API calls using Tanstack React Query
