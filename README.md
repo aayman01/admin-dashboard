@@ -6,7 +6,7 @@ This project is a responsive **Admin Dashboard** built using **React** and **Tai
 
 ## 🚀 Live Demo  
 
-🔗 [Live Demo](https://admin-dashboard-ten-psi-87.vercel.app/) *(if hosted)*  
+🔗 https://admin-dashboard-ten-psi-87.vercel.app/
 
 ---
 
