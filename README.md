@@ -25,7 +25,7 @@ This project is a responsive **Admin Dashboard** built using **React** and **Tai
 
 - **React.js** ⚛️  
 - **React Router** for navigation  
-- **React Query** for API data fetching & caching  
+- **TansStack Query** for API data fetching & caching  
 - **Tailwind CSS** for styling  
 - **Axios** for API calls  
 
