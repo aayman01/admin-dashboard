@@ -1,8 +1,47 @@
-# React + Vite
+# 🛠️ Admin Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive **Admin Dashboard** built using **React** and **Tailwind CSS**. It integrates with a RESTful API to display and manage **Users** and **Products**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+
+🔗 [Live Demo]([https://your-deployed-url.com](https://admin-dashboard-ten-psi-87.vercel.app/)) *(if hosted)*  
+
+---
+
+## 📂 Features  
+
+✅ Single Page Application (SPA) with a sidebar for navigation  
+✅ Fetch and display **Users** from a REST API  
+✅ Fetch, add, view, and delete **Products**  
+✅ Sorting & searching for **Users** and **Products**  
+✅ Responsive design for mobile & desktop  
+✅ Basic authentication (Bonus)  
+
+---
+
+## 🏗️ Tech Stack  
+
+- **React.js** ⚛️  
+- **React Router** for navigation  
+- **React Query** for API data fetching & caching  
+- **Tailwind CSS** for styling  
+- **Axios** for API calls  
+
+---
+
+## 🔧 Installation & Setup  
+
+### 1️⃣ Clone the Repository  
+
+```sh
+git clone https://github.com/your-username/admin-dashboard.git
+cd admin-dashboard 
+
+### 2️⃣ Install Dependencies
+npm install
+
+### 3️⃣ Run the Application
+npm run dev
+
